@@ -112,4 +112,5 @@ void loop()
 {
   process_information();
   send_information();
+  delay(1000);
 }
