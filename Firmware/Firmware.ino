@@ -85,19 +85,21 @@ void process_information()
 
 void send_information()
 {
+  Serial.print("{\"voltage\":");
   Serial.print(voltage);
-  Serial.print("*");
+  Serial.print(",\"current\":");
   Serial.print(current);
-  Serial.print("*");
+  Serial.print(",\"real_power\":");
   Serial.print(real_power);
-  Serial.print("*");
+  Serial.print(",\"apparent_power\":");
   Serial.print(apparent_power);
-  Serial.print("*");
+  Serial.print(",\"power_factor\":");
   Serial.print(power_factor);
-  Serial.print("*");
+  Serial.print(",\"humidity\":");
   Serial.print(humidity);
-  Serial.print("*");
-  Serial.println(temperature);
+  Serial.print(",\"temperature\":");
+  Serial.print(temperature);
+  Serial.println("}");
 }
 
 void setup()
