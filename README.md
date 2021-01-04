@@ -4,8 +4,7 @@ Application to monitor the energy consumption, temperature, and humidity of a ho
 ### Technologies
 
 ## Arduino
-![alt text](/Figures/arduino.png)
-[a link](https://www.arduino.cc/)
+[![alt text](/Figures/arduino.png)](https://www.arduino.cc/)
 
 ### Dashboard
 
