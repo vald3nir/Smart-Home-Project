@@ -10,13 +10,13 @@ Application to monitor the energy consumption, temperature, and humidity of a ho
 [![alt text](/Figures/nodered.png)](https://nodered.org/)
 
 ## Non-Invasive Current Sensor 100a Sct-013
-[![alt text](/Figures/sct013.png)](https://www.arduino.cc/)
+[![alt text](/Figures/sct013.png)](https://learn.openenergymonitor.org/electricity-monitoring/ct-sensors/yhdc-sct-013-000-ct-sensor-report)
 
 ## ZMPT101B Voltage Sensor
-[![alt text](/Figures/ZMPT.png)](https://www.arduino.cc/)
+[![alt text](/Figures/ZMPT.png)](https://innovatorsguru.com/zmpt101b/)
 
 ## DHT11 Temperature and Humidity Sensor
-[![alt text](/Figures/dht.png)](https://www.arduino.cc/)
+[![alt text](/Figures/dht.png)](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf)
 
 ### Overview
 
